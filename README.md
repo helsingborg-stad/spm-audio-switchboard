@@ -1,5 +1,8 @@
 # AudioSwitchboard
+## DEPRECATED
+Package will not recieve any updates, please use the AudioSwitchboard library in https://github.com/helsingborg-stad/spm-daisy instead.
 
+## About
 This is a support package for other libraries that uses audio servies in iOS. The reason for it's existence is to make it a little easier to manage multiple audio services for a single application without causing crashes or unexpected behaviour when using the AVAudioEngine. 
 
 - Manages start, stop and AVAudioEngine resets
